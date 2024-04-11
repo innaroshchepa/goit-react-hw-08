@@ -1,0 +1,17 @@
+ul {
+    padding: 0;
+}
+
+.card {
+    display: flex;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 12px;
+}
+
+
+.card>button {
+    margin-left: auto;
+    align-self: center;
+}
