@@ -14,25 +14,17 @@
 
 .input {
     padding: 4px;
-    font-size: 18px;
     width: 340px;
     margin-bottom: 8px;
+    color: #242424;
 }
 
-/* .btn {
+.btn {
     display: flex;
-    background-color: #213547;
     margin-left: auto;
     margin-right: auto;
     border: none;
 }
-
-.btn:hover {
-    border: none;
-    background-color: #131f2a;
-    color: white;
-    transition: 500ms;
-} */
 
 .error {
     color: red;

@@ -19,6 +19,11 @@
     margin-top: 8px;
     background-color: transparent;
 }
+.btn {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
 
 .error {
     color: red;
